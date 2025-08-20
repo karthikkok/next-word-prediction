@@ -1,0 +1,16 @@
+tensorflow==2.13
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+
+#numpy==1.24.3
+#pandas==2.3.0
+#scikit-learn==1.7.0
+#tensorflow==2.13
+#tensorboard==2.13.0
+#streamlit==1.46.0
+
+
